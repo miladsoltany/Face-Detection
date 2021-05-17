@@ -18,4 +18,13 @@ Here are the results on some randomly downloaded data with the given model.
 ![download](https://user-images.githubusercontent.com/44018277/118492637-74766d00-b735-11eb-8b6c-8d8226dc4f4a.jpg)
 ![istockphoto-1146473249-612x612](https://user-images.githubusercontent.com/44018277/118492644-76403080-b735-11eb-9f8f-21c2ed5eefd4.jpg)
 
-[![Open In Colab](https://github.com/miladsoltany/Face-Detection/blob/main/Face_Detection.ipynb)
+# Colab Notebook
+The code needed to preprocess the data and train the model is available in the following notebook.
+Set the runtime to GPU and run everything.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/miladsoltany/Face-Detection/blob/main/Face_Detection.ipynb)
+
+# Yolo weights
+The weights are also available to run using the official yolov5 code found [here](https://github.com/ultralytics/yolov5)
+
+Download the weights: [Link](https://github.com/miladsoltany/Face-Detection/blob/main/face_detection_yolov5s.pt)
